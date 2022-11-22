@@ -1,9 +1,7 @@
 .screen-header {
   display: flex;
-  padding: 20px;
-  padding-top: 40px;
-  opacity: 90%;
   justify-content: space-between;
+  padding: 60px 20px 25px 25px;
   align-items: center;
 }
 
